@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Xanadu';
+  src: url('Xanadu.eot');
+  src: url('Xanadu.woff') format('woff'),
+       url('Xanadu.svg#Xanadu') format('svg'),
+       url('Xanadu.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
